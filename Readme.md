@@ -3,7 +3,7 @@ This is a bash script you can use this script to find and delete all the unused 
 
 ## Usage
 Currently in this script you can specify the resource file name you want to delete e.g. node_modules and the directory under which
-all the resources matching the resource file name you want to delete from.
+all the resources matching the resource file name you want to delete from. You can also exclude folders for which you don't want to delete the packages right now.
 
 ### Here is a demo of the script
 <img src="dsctipt_usage_1.jpg">
