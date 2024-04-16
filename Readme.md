@@ -6,4 +6,4 @@ Currently in this script you can specify the resource file name you want to dele
 all the resources matching the resource file name you want to delete from. You can also exclude folders for which you don't want to delete the packages right now.
 
 ### Here is a demo of the script
-<img src="dsctipt_usage_1.jpg">
+<img src="dscript_usage_1.jpg">
