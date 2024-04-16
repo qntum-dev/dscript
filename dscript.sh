@@ -87,3 +87,4 @@ fi
 
 echo ""
 echo "Deleted all the $modules directories."
+exit 0
