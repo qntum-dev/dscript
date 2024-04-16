@@ -1,4 +1,4 @@
-# Resource Deleter
+# dscript
 This is a bash script you can use this script to find and delete all the unused dependencies, build files, e.g. node_modules etc which are not required currently maybe you are not working on this projects but this files taking up your disk space.
 
 ## Usage
